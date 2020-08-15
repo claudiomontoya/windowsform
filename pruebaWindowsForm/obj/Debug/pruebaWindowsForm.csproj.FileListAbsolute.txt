@@ -1,0 +1,13 @@
+C:\Users\Claudio\Desktop\IPVG\Clase 14-08\pruebaWindowsForm\pruebaWindowsForm\bin\Debug\pruebaWindowsForm.exe.config
+C:\Users\Claudio\Desktop\IPVG\Clase 14-08\pruebaWindowsForm\pruebaWindowsForm\bin\Debug\pruebaWindowsForm.exe
+C:\Users\Claudio\Desktop\IPVG\Clase 14-08\pruebaWindowsForm\pruebaWindowsForm\bin\Debug\pruebaWindowsForm.pdb
+C:\Users\Claudio\Desktop\IPVG\Clase 14-08\pruebaWindowsForm\pruebaWindowsForm\obj\Debug\pruebaWindowsForm.csprojAssemblyReference.cache
+C:\Users\Claudio\Desktop\IPVG\Clase 14-08\pruebaWindowsForm\pruebaWindowsForm\obj\Debug\pruebaWindowsForm.Form1.resources
+C:\Users\Claudio\Desktop\IPVG\Clase 14-08\pruebaWindowsForm\pruebaWindowsForm\obj\Debug\pruebaWindowsForm.Properties.Resources.resources
+C:\Users\Claudio\Desktop\IPVG\Clase 14-08\pruebaWindowsForm\pruebaWindowsForm\obj\Debug\pruebaWindowsForm.csproj.GenerateResource.cache
+C:\Users\Claudio\Desktop\IPVG\Clase 14-08\pruebaWindowsForm\pruebaWindowsForm\obj\Debug\pruebaWindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\Claudio\Desktop\IPVG\Clase 14-08\pruebaWindowsForm\pruebaWindowsForm\obj\Debug\pruebaWindowsForm.exe
+C:\Users\Claudio\Desktop\IPVG\Clase 14-08\pruebaWindowsForm\pruebaWindowsForm\obj\Debug\pruebaWindowsForm.pdb
+C:\Users\Claudio\Desktop\IPVG\Clase 14-08\windowsform\pruebaWindowsForm\bin\Debug\pruebaWindowsForm.exe.config
+C:\Users\Claudio\Desktop\IPVG\Clase 14-08\windowsform\pruebaWindowsForm\obj\Debug\pruebaWindowsForm.exe
+C:\Users\Claudio\Desktop\IPVG\Clase 14-08\windowsform\pruebaWindowsForm\obj\Debug\pruebaWindowsForm.pdb

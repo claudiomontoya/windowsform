@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pruebaWindowsForm", "pruebaWindowsForm\pruebaWindowsForm.csproj", "{C5122CFC-36E4-43EC-9D86-1764A3AB0DCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5122CFC-36E4-43EC-9D86-1764A3AB0DCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5122CFC-36E4-43EC-9D86-1764A3AB0DCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5122CFC-36E4-43EC-9D86-1764A3AB0DCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5122CFC-36E4-43EC-9D86-1764A3AB0DCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E3F24AB-134D-44A3-91AE-3AE68F305FDA}
+	EndGlobalSection
+EndGlobal
